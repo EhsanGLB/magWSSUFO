@@ -1,0 +1,4 @@
+magWSS.C
+magWSSFunctionObject.C
+
+LIB = $(FOAM_USER_LIBBIN)/libutilityFunctionObjectsmagWSS
