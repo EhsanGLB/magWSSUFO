@@ -68,6 +68,9 @@ SourceFiles
     magWSS.C
     IOmagWSS.H
 
+Author
+    Ehsan Golab, SUT. All rights reserved.
+
 \*---------------------------------------------------------------------------*/
 
 #ifndef magWSS_H
