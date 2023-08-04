@@ -1,5 +1,5 @@
 # magWSSUFO
-This is a utility function object for magnitude of wall shear stress based on foam-extend-4.1.
+This is a utility function object for magnitude of wall shear stress written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
